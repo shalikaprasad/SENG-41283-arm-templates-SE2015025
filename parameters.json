@@ -1,0 +1,75 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vaults_key_vault_cps_name": {
+            "value": null
+        },
+        "Redis_cloud_provider_selector_name": {
+            "value": null
+        },
+        "sites_cloud_provider_selector_ui_name": {
+            "value": null
+        },
+        "servers_mysqldb_server_cps_name": {
+            "value": null
+        },
+        "serverfarms_ASP_rgfunctionapp_ba83_name": {
+            "value": null
+        },
+        "profiles_cdn_cloud_provider_selector_name": {
+            "value": null
+        },
+        "sites_cloud_provider_selector_backend_name": {
+            "value": null
+        },
+        "frontdoors_cloud_provider_selector_name": {
+            "value": null
+        },
+        "storageAccounts_cloudproviderstorage_name": {
+            "value": null
+        },
+        "serverfarms_ASP_rgcloudproviderselector_b7cb_name": {
+            "value": null
+        },
+        "sites_cloud_provider_selector_azure_function_name": {
+            "value": null
+        },
+        "publicIPAddresses_cloud_provider_selector_name": {
+            "value": null
+        },
+        "serverfarms_ASP_rgcloudproviderselectorui_a91e_name": {
+            "value": null
+        },
+        "azureFirewalls_fw_cloud_provider_selector_ui_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_cloud_provider_selector_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "components_cloud_provider_selector_azure_function_name": {
+            "value": null
+        },
+        "dashboards_542b91c2_51ac_4dfa_92ee_0b6ff24aea68_dashboard_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___cloud_provider_selector_ui_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___cloud_provider_selector_azure_function_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        },
+        "components_cloud_provider_selector_ui_externalid": {
+            "value": null
+        },
+        "components_cloud_provider_selector_azure_function_externalid": {
+            "value": null
+        }
+    }
+}
